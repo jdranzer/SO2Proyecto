@@ -47,13 +47,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">About</a>
+                        <a href="#">Index</a>
                     </li>
                     <li>
-                        <a href="#">Services</a>
+                        <a href="#">Insert</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="#">Search</a>
                     </li>
                 </ul>
             </div>
@@ -66,8 +66,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h1>Logo Nav by Start Bootstrap</h1>
-                <p>Note: You may need to adjust some CSS based on the size of your logo. The default logo size is 150x50 pixels.</p>
+                <h1>Instagram</h1>
+                <p>Mensajes en tiempo real.</p>
             </div>
         </div>
     </div>
