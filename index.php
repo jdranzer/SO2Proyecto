@@ -78,7 +78,7 @@
                     $data = json_decode($raw_data, true);
 
                     // ... do stuff with your data
-                    echo $data['someSortOfData']; // fromBluetoothHere
+                    echo $data['someRedisData']; // fromBluetoothHere
                 
                 ?>
             </div>
