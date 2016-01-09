@@ -72,7 +72,7 @@
                 <?php
                 
                     // perform HTTP request to your nodejs server to fetch your data
-                    $raw_data = file_get_contents('http://192.168122.58:3000/getdata');
+                    $raw_data = file_get_contents('http://192.168.122.58:3000/getdata');
 
                     // PHP just sees your data as a JSON string, so we'll decode it
                     $data = json_decode($raw_data, true);
